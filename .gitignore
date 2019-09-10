@@ -14,6 +14,7 @@ npm-debug.log*
 
 .idea/
 .ionic/
+.gradle/
 .sourcemaps/
 .sass-cache/
 .tmp/
@@ -25,6 +26,8 @@ node_modules/
 tmp/
 temp/
 platforms/
+android/
+ios/
 plugins/
 plugins/android.json
 plugins/ios.json
