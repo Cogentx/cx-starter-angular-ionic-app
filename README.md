@@ -1,2 +1,3 @@
-# cx-starter-angular-ionic-app
-cx-starter-app | angular8 | ionic4 (from tutorial by Josh Morony https://www.joshmorony.com/)
+# Animated Card Layout
+
+[from YouTude tutorial by Josh Morony](https://www.youtube.com/watch?v=fTsL5zjMNJ4&t=225s)

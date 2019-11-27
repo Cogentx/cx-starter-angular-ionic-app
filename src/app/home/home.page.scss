@@ -1,1 +1,33 @@
+:host {
+  --offset-top: 200px;
+  background-color: #f3c96a;;
+  // background-image: image('../../assets/images/cogentxlogo_2560x1440.png');
+}
+
+ion-content {
+  --background: transparent;
+  transform: translate3d(0, 200px, 0);
+  transition: 500ms;
+}
+
+ion-toolbar {
+  --background: transparent;
+  --border-width: 0 !important;
+}
+
+.no-transform {
+  transform: translate3d(0, 0, 0) !important;
+}
+
+.content-container {
+  background-color: white;
+  height: 100%;
+  border-radius: 30px;
+  padding-top: 40px;
+  overflow: scroll;
+  padding-bottom: 200px;
+  h1, p {
+    text-align: center;
+  }
+}
 
